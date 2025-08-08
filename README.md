@@ -13,7 +13,7 @@ fzf and tmux
 
 ---
 
-clone this repository or copy [tmuxlauncher]tmuxlauncher into your computer, and mark it as executable with
+clone this repository or copy [tmuxlauncher](tmuxlauncher) into your computer, and mark it as executable with
 ```
 chmod +x tmuxlauncher
 ```
